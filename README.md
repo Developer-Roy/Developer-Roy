@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Roy
-- 👀 I’m interested in Frontend development and ui ux design.
-- 🌱 I’m currently learning Frontend and ui ux deisgn.
+- 👀 I’m interested in Frontend development and design.
+- 🌱 I’m currently learning Frontend Development.
 - 📫 How to reach me royweb2912@gmail.com 
 - ⚡ Fun fact: I am loving it
 
