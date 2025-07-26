@@ -2,7 +2,7 @@
 
 ---
 <h3 > My Personal Portfolio</h3>
-<a href="rohitroy-portfolio.netlify.app">Live Link</a>
+<a href="https://rohitroy-portfolio.netlify.app/">Live Link</a>
 
 ### 👨‍💻 About Me
 
