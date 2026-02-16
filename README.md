@@ -2,7 +2,7 @@
 
 ---
 <h3 > My Personal Portfolio</h3>
-<a href="[https://developer-roy.github.io/rohitroy.dev/]" target="_blank">Live Link</a>
+<a href="https://developer-roy.github.io/rohitroy.dev/" target="_blank">Live Link</a>
 
 ### 👨‍💻 About Me
 
