@@ -6,8 +6,8 @@
 
 ### 👨‍💻 About Me
 
-I'm **Rohit Roy**, a passionate Frontend developer based in India 🇮🇳.  
-Currently learning **Frontend Development** along with parts of **Backend**, with the goal of becoming a **Full-Stack Developer**.
+I'm **Rohit Roy**, a Design Engineer and Creative Developer based in India 🇮🇳.  
+Currently learning **Frontend Development** along with parts of **Design**, with the goal of becoming a **Design Engineer**.
 
 I love turning ideas into beautiful, functional websites — focusing on clean design, performance, and user experience.
 
